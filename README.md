@@ -1,23 +1,23 @@
-ISM 6644 – Python Fundamentals for Business Analytics  
-Instructor: Dr. Tala Mirzaei  
-Term Fall 2025  |  Section RXQ  |  Fully Online  |  FIU College of Business  
+# ISM 6644 – Python Fundamentals for Business Analytics  
+**Instructor:** Dr. Tala Mirzaei  
+**Term:** Fall 2025  |  **Section:** RXQ  |  **Format:** Fully Online  |  **Institution:** FIU College of Business  
 
 ---
 
-Course Overview
-This repository contains my coursework, Jupyter Notebooks, and project files for ISM 6644: Python Fundamentals for Business Analytics.  
-The course focuses on applying Python programming, data manipulation, and visualization techniques to real world business and healthcare datasets.
+## Course Overview
+This repository contains my coursework, Jupyter Notebooks, and project files for **ISM 6644: Python Fundamentals for Business Analytics**.  
+The course focuses on applying Python programming, data manipulation, and visualization techniques to real-world business and healthcare datasets.
 
 ---
 
-Structure
-Assignments → Weekly homework and coding tasks
-Project → Final project code
-Data → Raw or processed datasets
+## Structure
+- **Assignments:** Weekly homework and coding tasks  
+- **Project:** Final project code  
+- **Data:** Raw or processed datasets  
 
 ---
 
-Core Topics
+## Core Topics
 - Python Basics (variables, loops, functions, modules)  
 - Data Manipulation with Pandas  
 - Numerical Operations with NumPy  
@@ -28,12 +28,12 @@ Core Topics
 
 ---
 
-Libraries Used
+## Libraries Used
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `nltk`  
 
 ---
 
-Resources
-- Foundational Python for Data Science* – Kennedy Behrman (2021)  
-- Python for Data Analysis (3rd Ed.) – Wes McKinney (2022)   
-- [FIU Canvas Portal](https://canvas.fiu.edu)  
+## Resources
+- *Foundational Python for Data Science* – Kennedy Behrman (2021)  
+- *Python for Data Analysis* (3rd Ed.) – Wes McKinney (2022)  
+- [FIU Canvas Portal](https://canvas.fiu.edu)
