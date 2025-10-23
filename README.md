@@ -10,7 +10,7 @@ The course focuses on applying Python programming, data manipulation, and visual
 
 ---
 
-## 📂 Structure
+Structure
 ├── assignments/ → Weekly homework and coding tasks
 ├── project/ → Final project code
 └── data/ → Raw or processed datasets
