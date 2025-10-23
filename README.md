@@ -4,13 +4,13 @@ Term Fall 2025  |  Section RXQ  |  Fully Online  |  FIU College of Business
 
 ---
 
-Course Overview
+Course Overview/
 This repository contains my coursework, Jupyter Notebooks, and project files for ISM 6644: Python Fundamentals for Business Analytics.  
 The course focuses on applying Python programming, data manipulation, and visualization techniques to real world business and healthcare datasets.
 
 ---
 
-Structure
+Structure/
 Assignments/ → Weekly homework and coding tasks
 Project/ → Final project code
 Data/ → Raw or processed datasets
